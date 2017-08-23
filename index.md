@@ -7,9 +7,9 @@ Empresa focada em criar soluções através do Engineering Design Process. Funda
 - [Bruno Batista Valentini](https://www.linkedin.com/in/bruno-valentini-b60a10149/)
 
 ### PROJECTS
-_dibetic foot checker_
-_wheel chair transfer_
-_Desafio de drones 2017_
+- _Dibetic Foot Checker_
+- _Wheel Chair Transfer_
+- _Desafio de Drones 2017_
 
 ## CONTACT
 **MAIL:** edpbprojects@gmail.com
