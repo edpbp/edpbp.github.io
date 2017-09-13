@@ -8,7 +8,7 @@ Empresa focada em criar soluções através do Engineering Design Process. Funda
 
 ### PROJECTS
 - [_Dibetic Foot Checker_-cliente: Shriners Hospital for Children](https://drive.google.com/file/d/0B65XznnqbuNWMC1Lc29WbVZwU1E/view)
-- [_Wheel Chair Transfer_- cliente: UTHEALTH Helath Science Center of Houston](https://drive.google.com/file/d/0B65XznnqbuNWeWVyWExyOXBzbFE/view)
+- [_Wheel Chair Transfer_- cliente: UTHEALTH Health Science Center of Houston](https://drive.google.com/file/d/0B65XznnqbuNWeWVyWExyOXBzbFE/view)
 - [_Desafio de Drones 2017_- cliente: projeto proprio](https://docs.google.com/presentation/d/1krcaqUY7gAgF_CYOYpqSvgmuuT4kVxZKpiUeEMLKRWc/edit#slide=id.p)
 
 ## CONTACT
